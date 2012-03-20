@@ -8,8 +8,8 @@
     <ProjectGuid>{29CEF2EB-DAF2-459A-804B-2AC025463828}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>sig_check</RootNamespace>
-    <AssemblyName>sig-check</AssemblyName>
+    <RootNamespace>SigCheck</RootNamespace>
+    <AssemblyName>SigCheck</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>

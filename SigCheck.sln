@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sig-check", "sig-check.csproj", "{29CEF2EB-DAF2-459A-804B-2AC025463828}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SigCheck", "SigCheck.csproj", "{29CEF2EB-DAF2-459A-804B-2AC025463828}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
