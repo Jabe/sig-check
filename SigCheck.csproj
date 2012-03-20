@@ -36,7 +36,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="WinTrust.cs" />
-    <Compile Include="WinVerifyTrustResult.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Properties\" />
